@@ -6,4 +6,4 @@ while True:
 
     print("The sum of %d and %d is %d" %(num1,num2,num1+num2))
     if(input("Do you want to continue?\n")== 'no'):
-        break
+        False
